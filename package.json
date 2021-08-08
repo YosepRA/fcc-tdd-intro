@@ -1,0 +1,22 @@
+{
+  "name": "fcc-tdd-intro",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Test-Driven Development Introduction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/fcc-tdd-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosepRA/fcc-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/YosepRA/fcc-tdd-intro#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
